@@ -1,5 +1,0 @@
-Regel 1
-Regel 2
-Branch test, regel 3
-Diff regel:wq
-
